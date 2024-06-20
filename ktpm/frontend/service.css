@@ -1,0 +1,15 @@
+.navbar-custom {
+    background-color: #F5B;
+    padding: 5px 10px; 
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white !important;
+    font-size: 20px;
+}
+
+.logo {
+    width: 100px;  
+    height: auto; 
+    margin-right: 10px; 
+}
